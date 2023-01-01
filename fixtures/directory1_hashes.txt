@@ -1,0 +1,6 @@
+b934de79df15dc7a '/home/rodrigo/Documents/code/python/xxh3/fixtures/directory1/file5'
+b934de79df15dc7a '/home/rodrigo/Documents/code/python/xxh3/fixtures/directory1/file4'
+bd4bf76d31884603 '/home/rodrigo/Documents/code/python/xxh3/fixtures/directory1/file6'
+8bb820c8bfd319e9 '/home/rodrigo/Documents/code/python/xxh3/fixtures/directory1/file1'
+e26ddd6506044599 '/home/rodrigo/Documents/code/python/xxh3/fixtures/directory1/file3'
+e26ddd6506044599 '/home/rodrigo/Documents/code/python/xxh3/fixtures/directory1/file2'
